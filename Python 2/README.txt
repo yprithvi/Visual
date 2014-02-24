@@ -2,7 +2,7 @@ python version: python 2.7
 
 libraries need for these codes:
 ElementTree, numpy, scipy, csv, operator, os, re, urllib, datetime, matplotlib
-
+If using windows, You can download packages from : http://www.lfd.uci.edu/~gohlke/pythonlibs/
 
 
 scrap:
